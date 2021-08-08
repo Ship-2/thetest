@@ -8,6 +8,8 @@ public class Application1 {
 		
 		System.out.println("#1. I'm 언석.");
 
+		System.out.println("I'm 선민");
+		
 	}
 
 }
